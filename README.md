@@ -15,3 +15,13 @@ I am a Data Engineer | Machine Learning Engineer That is highly interested in an
 <p align="left">
   <a href="https://github.com/sam23121/agritech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=agritech&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/sam23121/Pharmaceutical_Sales_prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=Pharmaceutical_Sales_prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/sam23121/Breast_cancer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=Breast_cancer&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
+  
+<p align="left">
+  <a href="https://github.com/sam23121?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
+</p>
+
+## Top projects I've contributed to
+<p align="left">
+  <a href="https://github.com/Speech-to-text-tenac/STT"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Speech-to-text-tenac&repo=STT&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Speech-to-text-Kafka-Airflow-Spark/StoTkas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Speech-to-text-Kafka-Airflow-Spark&repo=StoTkas&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
+</p>
