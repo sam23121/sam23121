@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Samuel Anagow 
 
-I am a Data Engineer | Machine Learning Engineer That is highly interested in any thing to do with data even the smell of it 😄 
+I am a Data Engineer | Machine Learning Engineer who is highly interested  in any thing releated with data even the smell of it 😄 
 
 
 ## About me
