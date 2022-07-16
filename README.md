@@ -4,7 +4,7 @@ I am a Data Engineer | Machine Learning Engineer That is highly interested in an
 
 
 ## About me
-- 🔭 I’m currently working on cool
+- 🔭 I’m currently working on very cool stuff 😄
 - 🌱 I’m currently learning Kafka, Spark and Airflow
 - 💬 Ask me about Data Pipelines, Computer vision and NLP
 - 📫 How to reach me: email - smlalene@gmail.com [linkdin](https://www.linkedin.com/in/samuel-anagow-230309215/)
@@ -25,3 +25,9 @@ I am a Data Engineer | Machine Learning Engineer That is highly interested in an
   <a href="https://github.com/Speech-to-text-tenac/STT"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Speech-to-text-tenac&repo=STT&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/Speech-to-text-Kafka-Airflow-Spark/StoTkas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Speech-to-text-Kafka-Airflow-Spark&repo=StoTkas&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
 </p>
+
+## Tech Stack
+#### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
