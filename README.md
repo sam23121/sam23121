@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Samuel Anagow 
+### Hi there 👋 My name is Samuel Alene
 
 I am a Data Engineer | Machine Learning Engineer who is highly interested  in any thing releated with data even the smell of it 😄 
 
