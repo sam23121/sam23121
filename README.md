@@ -49,7 +49,6 @@ I have more than 2 years of experience working in the financial sector, where we
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![RDS](https://img.shields.io/badge/-RDS-05122A?style=flat&logo=RDS)&nbsp;
 
 
 #### Tools
