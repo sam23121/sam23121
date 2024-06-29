@@ -33,7 +33,7 @@ I have more than 2 years of experience working in the financial sector, where we
 #### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-00599C?style=flat&logo=Pandas)&nbsp;
-![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat&logo=DBT)&nbsp;
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
@@ -58,9 +58,12 @@ I have more than 2 years of experience working in the financial sector, where we
 ![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Kafka)&nbsp;
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+
+
+#### Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
 
 
