@@ -9,8 +9,7 @@ I have more than 2 years of experience working in the financial sector, where we
 
 ## My top open source projects
 <p align="left">
-  <a href="https://github.com/sam23121/agritech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=agritech&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/sam23121/Pharmaceutical_Sales_prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=Pharmaceutical_Sales_prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/sam23121/Breast_cancer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=Breast_cancer&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
+  <a href="https://github.com/sam23121/agritech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=agritech&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
    <a href="https://github.com/sam23121/sentiment_analysis_amh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=sentiment_analysis_amh&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   
 <p align="left">
