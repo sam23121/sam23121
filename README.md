@@ -11,6 +11,7 @@ I have more than 2 years of experience working in the financial sector, where we
 <p align="left">
   <a href="https://github.com/sam23121/agritech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=agritech&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
    <a href="https://github.com/sam23121/sentiment_analysis_amh"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=sentiment_analysis_amh&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/sam23121/baher_hasab"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sam23121&repo=baher_hasab&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   
 <p align="left">
   <a href="https://github.com/sam23121?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
